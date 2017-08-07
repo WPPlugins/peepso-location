@@ -1,0 +1,150 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: PeepSo Core: Location\n"
+"POT-Creation-Date: 2017-06-16 17:41+0700\n"
+"PO-Revision-Date: 2017-06-16 17:41+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: peepsolocation.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/fields/fieldlocation.php:11
+msgid "clickable link"
+msgstr ""
+
+#: classes/fields/fieldlocation.php:12
+msgid "Map selector"
+msgstr ""
+
+#: classes/fields/fieldlocation.php:14 peepsolocation.php:413
+msgid "Share your location"
+msgstr ""
+
+#: peepsolocation.php:138 peepsolocation.php:180 peepsolocation.php:412
+msgid "Location"
+msgstr ""
+
+#: peepsolocation.php:143
+msgid "Set a Location for your post"
+msgstr ""
+
+#: peepsolocation.php:225
+msgid "Request could not be verified."
+msgstr ""
+
+#: peepsolocation.php:234
+msgid "Photo album location saved."
+msgstr ""
+
+#: peepsolocation.php:237
+msgid "Missing field location."
+msgstr ""
+
+#: peepsolocation.php:243
+msgid "You are not authorized to change this album location."
+msgstr ""
+
+#: peepsolocation.php:361
+msgid "Google Maps API Key (v3)"
+msgstr ""
+
+#: peepsolocation.php:370
+msgid "Locations Settings"
+msgstr ""
+
+#: peepsolocation.php:487
+#, php-format
+msgid "The %s plugin requires the PeepSo plugin to be installed and activated."
+msgstr ""
+
+#: peepsolocation.php:489
+msgid "Get it now!"
+msgstr ""
+
+#: peepsolocation.php:500
+msgid ""
+"Due to changes in Google Maps API it's required to use an API key for the "
+"LocSo plugin to work properly."
+msgstr ""
+
+#: peepsolocation.php:502
+msgid "You can get the API key"
+msgstr ""
+
+#: peepsolocation.php:503 peepsolocation.php:506
+msgid "here"
+msgstr ""
+
+#: peepsolocation.php:505
+msgid "Documentation for LocSo can be found"
+msgstr ""
+
+#: templates/location/interaction.php:10
+#: templates/location/photo_album_extra_fields.php:10
+msgid "Enter your location:"
+msgstr ""
+
+#: templates/location/interaction.php:16
+#: templates/location/photo_album_extra_fields.php:16
+#: templates/location/postbox.php:10 templates/location/selector.php:14
+msgid "Select"
+msgstr ""
+
+#: templates/location/interaction.php:19
+#: templates/location/photo_album_extra_fields.php:19
+#: templates/location/postbox.php:11 templates/location/selector.php:15
+msgid "Remove"
+msgstr ""
+
+#: templates/location/photo_album_show_extra_fields.php:3
+msgid "Album location"
+msgstr ""
+
+#: templates/location/photo_album_show_extra_fields.php:17
+msgid "No location"
+msgstr ""
+
+#: templates/location/photo_album_show_extra_fields.php:35
+msgid "Cancel"
+msgstr ""
+
+#: templates/location/photo_album_show_extra_fields.php:38
+msgid "Save location"
+msgstr ""
+
+#: templates/location/postbox.php:3 templates/location/selector.php:3
+msgid "Enter location name..."
+msgstr ""
+
+#: templates/location/selector.php:10
+msgid "Select location"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PeepSo Core: Location"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://peepso.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Share your location when posting a status"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PeepSo"
+msgstr ""
